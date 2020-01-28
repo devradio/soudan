@@ -1,6 +1,7 @@
 {"success":true,"message":"","radios":
 [
 
+{"id":"0","number":"0","name":"\u0627\u0630\u0627\u0639\u0629 \u0627\u0644\u0628\u0635\u064a\u0631\u0629","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/sd/master/r01.png","streamUrl":"http://5.152.208.98:8082/","yourmuzeId":"0","state":"1"},  
 {"id":"1","number":"1","name":"هنا امدرمان","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/sd/master/umdorman.png","streamUrl":"http://178.33.251.97:8639","yourmuzeId":null,"state":"1"},    
 {"id":"2","number":"2","name":"الرياضية FM 104","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/sd/master/SportFM104.png","streamUrl":"http://188.165.192.5:8936","yourmuzeId":null,"state":"1"},
 {"id":"3","number":"3","name":"البيت السوداني","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/sd/master/FM100white.png","streamUrl":"https://sportfm104.radioca.st","yourmuzeId":null,"state":"1"},
